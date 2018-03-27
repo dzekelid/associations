@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeInstanceAssociationsStatus&k=1:
+  /?Action=DescribeInstanceAssociationsStatus:
     get:
       summary: ' Describe Instance Associations Status '
       description: The status of the associations for the instance(s)
