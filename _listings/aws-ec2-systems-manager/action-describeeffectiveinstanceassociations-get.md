@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeEffectiveInstanceAssociations&k=1:
+  /?Action=DescribeEffectiveInstanceAssociations:
     get:
       summary: ' Describe Effective Instance Associations '
       description: All associations for the instance(s)
