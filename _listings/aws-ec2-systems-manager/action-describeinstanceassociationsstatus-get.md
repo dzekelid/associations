@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS EC2 Systems Manager API
+  title: Amazon EC2 Systems Manager API Describe Instance Associations Status
   version: 1.0.0
+  description: The status of the associations for the instance(s).
 schemes:
 - http
 produces:
