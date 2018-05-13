@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS EC2 Systems Manager API
+  title: Amazon EC2 Systems Manager API List Associations
   version: 1.0.0
+  description: Lists the associations for the specified SSM document or instance.
 schemes:
 - http
 produces:
