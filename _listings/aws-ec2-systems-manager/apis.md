@@ -37,15 +37,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/aws-ec2-systems-manager/action-listassociations-get.md
-- name: Amazon EC2 Systems Manager API Describe Effective Instance Associations
-  description: All associations for the instance(s).
+- name: Amazon EC2 Systems Manager API Describe Instance Associations Status
+  description: The status of the associations for the instance(s).
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
   humanURL: https://aws.amazon.com/ec2/systems-manager/
   baseURL: http:://{host}//
   tags: Associations
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/aws-ec2-systems-manager/action-describeeffectiveinstanceassociations-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/aws-ec2-systems-manager/action-describeinstanceassociationsstatus-get.md
 x-common:
 - type: x-documentation
   url: http://docs.aws.amazon.com/ssm/latest/APIReference/Welcome.html
