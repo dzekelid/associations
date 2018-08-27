@@ -12,11 +12,267 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "164081"
 tags: Associations
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Official Akeneo PIM API - association type (2.x only)
+  x-api-slug: restv1associationtypesupsell-get
+  description: Assuming that the given code is the code of an existing association
+    type
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypesupsell-get-openapi.md
+- name: Official Akeneo PIM API - association type (2.x only)
+  x-api-slug: restv1associationtypesupsell-patch
+  description: Association type (2.x only).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypesupsell-patch-openapi.md
+- name: Official Akeneo PIM API - association types (2.x only)
+  x-api-slug: restv1associationtypes-get
+  description: Association types (2.x only).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypes-get-openapi.md
+- name: Official Akeneo PIM API - association type (2.x only)
+  x-api-slug: restv1associationtypes-post
+  description: Assuming that there is no "new_association_type" already existing
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypes-post-openapi.md
+- name: Official Akeneo PIM API - association types (2.x only)
+  x-api-slug: restv1associationtypes-patch
+  description: Association types (2.x only).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypes-patch-openapi.md
+- name: Official Akeneo PIM API - association type (2.x only)
+  x-api-slug: restv1associationtypesupsell-get
+  description: Assuming that the given code is the code of an existing association
+    type
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypesupsell-get-openapi.md
+- name: Official Akeneo PIM API - association type (2.x only)
+  x-api-slug: restv1associationtypesupsell-patch
+  description: Association type (2.x only).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypesupsell-patch-openapi.md
+- name: Official Akeneo PIM API - association types (2.x only)
+  x-api-slug: restv1associationtypes-get
+  description: Association types (2.x only).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypes-get-openapi.md
+- name: Official Akeneo PIM API - association type (2.x only)
+  x-api-slug: restv1associationtypes-post
+  description: Assuming that there is no "new_association_type" already existing
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypes-post-openapi.md
+- name: Official Akeneo PIM API - association types (2.x only)
+  x-api-slug: restv1associationtypes-patch
+  description: Association types (2.x only).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypes-patch-openapi.md
+- name: Official Akeneo PIM API - association types (2.x only)
+  x-api-slug: restv1associationtypes-patch
+  description: Association types (2.x only).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypes-patch-openapi.md
+- name: Official Akeneo PIM API - association type (2.x only)
+  x-api-slug: restv1associationtypes-post
+  description: Assuming that there is no "new_association_type" already existing
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypes-post-openapi.md
+- name: Official Akeneo PIM API - association type (2.x only)
+  x-api-slug: restv1associationtypes-post
+  description: Assuming that there is no "new_association_type" already existing
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypes-post-openapi.md
+- name: Official Akeneo PIM API - association type (2.x only)
+  x-api-slug: restv1associationtypes-post
+  description: Assuming that there is no "new_association_type" already existing
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypes-post-openapi.md
+- name: Official Akeneo PIM API - association type (2.x only)
+  x-api-slug: restv1associationtypes-post
+  description: Assuming that there is no "new_association_type" already existing
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypes-post-openapi.md
+- name: Official Akeneo PIM API - association types (2.x only)
+  x-api-slug: restv1associationtypes-get
+  description: Association types (2.x only).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypes-get-openapi.md
+- name: Official Akeneo PIM API - association types (2.x only)
+  x-api-slug: restv1associationtypes-get
+  description: Association types (2.x only).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypes-get-openapi.md
+- name: Official Akeneo PIM API - association type (2.x only)
+  x-api-slug: restv1associationtypesupsell-patch
+  description: Association type (2.x only).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypesupsell-patch-openapi.md
+- name: Official Akeneo PIM API - association type (2.x only)
+  x-api-slug: restv1associationtypesupsell-patch
+  description: Association type (2.x only).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypesupsell-patch-openapi.md
+- name: Official Akeneo PIM API - association type (2.x only)
+  x-api-slug: restv1associationtypesupsell-patch
+  description: Association type (2.x only).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypesupsell-patch-openapi.md
+- name: Official Akeneo PIM API - association type (2.x only)
+  x-api-slug: restv1associationtypesupsell-patch
+  description: Association type (2.x only).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypesupsell-patch-openapi.md
+- name: Official Akeneo PIM API - association type (2.x only)
+  x-api-slug: restv1associationtypesupsell-get
+  description: Assuming that the given code is the code of an existing association
+    type
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypesupsell-get-openapi.md
+- name: Official Akeneo PIM API - association type (2.x only)
+  x-api-slug: restv1associationtypesupsell-get
+  description: Assuming that the given code is the code of an existing association
+    type
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypesupsell-get-openapi.md
+- name: Official Akeneo PIM API - association type (2.x only)
+  x-api-slug: restv1associationtypesupsell-get
+  description: Assuming that the given code is the code of an existing association
+    type
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypesupsell-get-openapi.md
+- name: Official Akeneo PIM API - association type (2.x only)
+  x-api-slug: restv1associationtypesupsell-get
+  description: Assuming that the given code is the code of an existing association
+    type
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/associations/master/_listings/akeneo/restv1associationtypesupsell-get-openapi.md
 x-common:
 - type: x-blog-rss
   url: https://www.akeneo.com/feed/

@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Square
 x-complete: 1
@@ -172,4 +171,3 @@ paths:
       - Applied
       - To
       - Item
----
